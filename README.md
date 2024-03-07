@@ -1,5 +1,4 @@
 # MambaSR: Super Resolution using Mamba
-Aman Urumbekov
 
 ---
 
